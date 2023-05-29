@@ -8,7 +8,5 @@ Tech stack:
   <li>Javascript</li>
 </ul>
 
-Deployment link: 
-
-
 Product demo:
+![screenshotnf](https://github.com/Sulagna-Dutta-Roy/Personal-Finance-Tracker/assets/72568715/4c684b92-dad8-4c2a-9e58-afb97059f37a)
